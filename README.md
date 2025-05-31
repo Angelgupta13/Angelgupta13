@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA <br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m working on web development, Data Science, AI/ML<br><br>📫 You can contact me at angelgupt16@gmail<br><br>🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for help with web development, Data Science, AI/ML<br><br>📫 You can contact me at angelgupt16@gmail.com<br><br>👨‍💻 All of my projects are available at coming-soon<br><br>📄 See my portfolio at coming-soon<br><br>⚡ looking forward to learning and contributing in something new<br><br>⚡ looking forward to learning and contributing in something new
+🔭 I’m currently working on DSA <br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m working on web development, Data Science, AI/ML<br><br>📫 You can contact me at angelgupt16@gmail<br><br>🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for help with web development, Data Science, AI/ML<br><br>📫 You can contact me at angelgupt16@gmail.com<br><br>👨‍💻 All of my projects are available at coming-soon<br><br>📄 See my portfolio at coming-soon<br><br>⚡ looking forward to learning and contributing in something new<br><br>
 
 
 ## 🌐 Socials:
