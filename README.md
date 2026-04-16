@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&weight=700&center=true&vCenter=true&width=600&height=60&lines=⚡+ANGEL+GUPTA+⚡;Developer+|+AI%2FML+Enthusiast+🔥&color=00FFFF&cursorColor=FF00FF&center=true" />
 </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Angelgupta13/Angelgupta13/output/snake.svg" alt="snake" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angelgupta13&label=Views&color=ff00ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Angelgupta13?color=ff00ff&style=for-the-badge" />
