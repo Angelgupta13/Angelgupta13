@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Angelgupta13/Angelgupta13/output/snake.svg" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=dracula&bg_color=0d1117&color=bd93f9&line=ff79c6&point=ff79c6&area=true&hide_border=false" />
 </div>
 
 <p align="center">
