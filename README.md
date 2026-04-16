@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&weight=700&center=true&vCenter=true&width=600&height=60&lines=+Hello world ;+ANGEL;Developer+|+AI%2FML+Enthusiast+&color=00FFFF&cursorColor=FF00FF&center=true" />
+  <a href="https://github.com/Angelgupta13">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+👋+I'm+Angel;Developer+|+AI%2FML+Enthusiast&color=00FFFF&cursorColor=FF00FF" />
+  </a>
 </h1>
 
 <div align="center">
@@ -43,7 +45,14 @@
 ### 📊 The Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelgupta13&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angelgupta13&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgupta13&layout=donut&theme=midnight-purple&hide_border=false&bg_color=0d1117" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=midnight-purple&hide_border=false&background=0d1117" />
 </div>
 
 ---
