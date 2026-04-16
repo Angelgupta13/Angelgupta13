@@ -4,8 +4,10 @@
   </a>
 </h1>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=dracula&bg_color=ffffff&color=7c3aed&line=7c3aed&point=ff00ff&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=radical&bg_color=transparent&color=ff00ff&line=00ff00&point=ff00ff&area=true&hide_border=false&height=180" />
 </div>
 
 <p align="center">
@@ -53,6 +55,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=default&hide_border=false&background=fff" />
+</div>
+
+<br/><br/>
+
+### 🎯 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=radical&bg_color=transparent&color=ff00ff&line=00ff00&point=ff00ff&area=true&hide_border=false&height=180" />
 </div>
 
 ---
