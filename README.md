@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=dracula&bg_color=0d1117&color=bd93f9&line=ff79c6&point=ff79c6&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=dracula&bg_color=ffffff&color=7c3aed&line=7c3aed&point=ff00ff&area=true&hide_border=false" />
 </div>
 
 <p align="center">
@@ -45,14 +45,14 @@
 ### 📊 The Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelgupta13&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgupta13&layout=donut&theme=midnight-purple&hide_border=false&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angelgupta13&show_icons=true&theme=default&hide_border=false&bg_color=fff&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgupta13&layout=donut&theme=default&hide_border=false&bg_color=fff" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=midnight-purple&hide_border=false&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=default&hide_border=false&background=fff" />
 </div>
 
 ---
