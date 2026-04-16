@@ -6,15 +6,25 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Angelgupta13&label=Profile+Views&color=ff00ff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coder+Level-100%25-brightgreen?style=for-the-badge" />
 </div>
 
 <p align="center">
+  🔭 I’m currently working on DSA<br>
+  🌱 I’m presently learning AI/ML<br>
+  🤝 I’m working on web development, Data Science, AI/ML<br>
+  📫 You can contact me at angelgupt16@gmail.com<br>
+</p>
+
+---
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://linkedin.com/in/angel-gupta16" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://twitter.com/AngelGupta13" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/AngelGupta13" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/AngelGupta13" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,7 +36,7 @@
 ### 🖥️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,java,react,nodejs,git,docker,mongodb,firebase,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,java,react,nodejs,git,docker,mongodb,firebase,vscode,linux,mysql" />
 </div>
 
 ---
@@ -42,20 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=radical&hide_border=true&background=0d1117" alt="streak graph" />
-</div>
-
----
-
-### ✨ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?username=Angelgupta13&count=3&theme=dark" />
 </div>
 
 ---
