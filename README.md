@@ -6,10 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&theme=radical&bg_color=transparent&color=ff00ff&line=00ff00&point=ff00ff&area=true&hide_border=false&height=180" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angelgupta13&label=Views&color=ff00ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Angelgupta13?color=ff00ff&style=for-the-badge" />
