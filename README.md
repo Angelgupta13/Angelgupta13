@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&weight=700&center=true&vCenter=true&width=600&height=60&lines=⚡+ANGEL+GUPTA+⚡;Full+Stack+Developer;AI%2FML+Enthusiast+🔥&color=00FFFF&cursorColor=FF00FF&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&weight=700&center=true&vCenter=true&width=600&height=60&lines=⚡+ANGEL+GUPTA+⚡;Developer+|+AI%2FML+Enthusiast+🔥&color=00FFFF&cursorColor=FF00FF&center=true" />
 </h1>
 
 <div align="center">
@@ -45,44 +45,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angelgupta13&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=0d1117&count_private=true&include_all_commits=true" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelgupta13&theme=midnight-purple&hide_border=false&background=0d1117&fire=ff00ff&ring=00ff00&sideNums=00ff00" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgupta13&layout=donut&theme=midnight-purple&hide_border=false&bg_color=0d1117" />
-</div>
-
----
-
-### 🔥 The Streak
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelgupta13&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ff00ff&area=true&hide_border=false&area_color=7c3aed&height=200" />
-</div>
-
----
-
-### 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angelgupta13&theme=midnight-purple&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" />
-</div>
-
----
-
-### 🎮 Currently
-
-- 🎯 Building: Projects that solve real problems
-- 📚 Learning: AI/ML, System Design, Cloud
-- 🎮 Playing: Anything that challenges my brain
-- ☕ Drinking: Way too much coffee
-- 💭 Thinking: "Why does my code work? It shouldn't..."
 
 ---
 
